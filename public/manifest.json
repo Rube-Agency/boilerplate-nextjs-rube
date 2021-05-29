@@ -1,0 +1,17 @@
+{
+  "name": "Agência Rube - Boilerplate",
+  "description": "Boilerplate utilizando Typescript, React, NextJS e Styled Components",
+  "short_name": "Agência Rube",
+  "icons": [
+    {
+      "src": "/img/rube_icon.png",
+      "sizes": "132x132",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#06092B",
+  "background_color": "#06092B",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
